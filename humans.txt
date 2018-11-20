@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marcin Szymkowiak marcinse@gmail.com
 
 # THANKS
 
